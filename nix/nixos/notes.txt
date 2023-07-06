@@ -1,0 +1,3 @@
+nixos configs
+
+nix search nixpkgs sift
